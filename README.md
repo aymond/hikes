@@ -2,34 +2,14 @@
 
 Planning for high tatras hike
 
-- [Tatras](#tatras)
-  - [Schedule](#schedule)
-    - [Friday, June 29, 2018](#friday--june-29--2018)
-      - [ToDo](#todo)
-    - [Saturday, June 30, 2018](#saturday--june-30--2018)
-    - [Sunday, July 1, 2018](#sunday--july-1--2018)
-      - [Hikes](#hikes)
-      - [ToDo](#todo)
-    - [Monday, July 2, 2018](#monday--july-2--2018)
-      - [ToDo](#todo)
-    - [Tuesday, July 3, 2018](#tuesday--july-3--2018)
-      - [ToDo](#todo)
-    - [Wednesday, July 4, 2018](#wednesday--july-4--2018)
-      - [ToDo](#todo)
-    - [Thursday, July 5, 2018](#thursday--july-5--2018)
-      - [ToDo](#todo)
-    - [Friday, July 6, 2018](#friday--july-6--2018)
-      - [ToDo](#todo)
-    - [Saturday, July 7, 2018](#saturday--july-7--2018)
-  - [Equipment](#equipment)
-- [Why GitHub?](#why-github)
-
 ## Schedule
 
 ### Thursday, July 05, 2018
 
-All meet in Prague for kick-off
+Meet in Prague for kick-off
+
 Overnight in Prague
+
 "Flight to PRAGUE CZ Fri 2018-06-29 4:30pm – 5:30pm (CEST)"
 
 ### Friday, July 06, 2018
@@ -40,7 +20,6 @@ Train from Prague to Slovakia - https://www.regiojet.cz
 
 Departure	Route	The price of the ticket
 Fri, 06-Jul-2018 	21:48	Prague → Poprad	77.80 EUR
-
 
 #### ToDo
 
@@ -67,7 +46,6 @@ Local train to Strbske Pleso.
 
 
 ### Sunday, July 08, 2018
-
 
 #### Hikes
 
