@@ -26,31 +26,27 @@ Planning for high tatras hike
 
 ## Schedule
 
-### Friday, June 29, 2018
+### Thursday, July 05, 2018
 
 All meet in Prague for kick-off
 Overnight in Prague
 "Flight to PRAGUE CZ Fri 2018-06-29 4:30pm – 5:30pm (CEST)"
 
-#### ToDo
-
-- [ ] Need Accommodation in Prague
-  - https://www.themadhouseprague.com
-  - https://www.safestay.com/prague/
-
-### Saturday, June 30, 2018
+### Friday, July 06, 2018
 
 Day in Prague. 
 Overnight Train to Poprad, sleep in the train
 Train from Prague to Slovakia - https://www.regiojet.cz
 
-- [ ] Book Train. Preference Sleeping Car.
+Departure	Route	The price of the ticket
+Fri, 06-Jul-2018 	21:48	Prague → Poprad	77.80 EUR
 
-### Sunday, July 1, 2018
+
+#### ToDo
+
+### Saturday, July 07, 2018
 
 Local train to Strbske Pleso.
-
-#### Hikes
 
 1. Hike to Furkotsky Stit (2404m)
     - 3.5 Hours to Peak
@@ -65,14 +61,15 @@ Local train to Strbske Pleso.
 | Duration | 6.5 Hours |
 | Distance | 17.5 KM |
 
-
-#### ToDo
-
 - [ ] Need Accommodation - Strbske Pleso
     - Tourist lodging SHB
     - [furkotka.sk](http://furkotka.sk/booking/?lang=en)
 
-### Monday, July 2, 2018
+
+### Sunday, July 08, 2018
+
+
+#### Hikes
 
 Get to Popradske Pleso to start hike. Bus shuttle? or hike. 
 Then hike to Koprovsky Stit (2363m)
@@ -87,12 +84,11 @@ Then hike to Koprovsky Stit (2363m)
     - 3.0 Hour hike to Rysy
     - 2.5 Hour return from Peak to Popradske pleso 
 
-
 #### ToDo
 
 - [ ] Need Accommodation - Strbske Pleso (As above) or ...?
 
-### Tuesday, July 3, 2018
+### Monday, July 09, 2018
 
 Hike to Rysy (2500m)
 
@@ -100,7 +96,7 @@ Hike to Rysy (2500m)
 
 - [ ] Need Accommodation - Vysoke Tatry
 
-### Wednesday, July 4, 2018
+### Tuesday, July 10, 2018
 
 Early hike to Slavkovsky Stit (2452m), and on to Teryho Chata (2015)
 
@@ -108,7 +104,7 @@ Early hike to Slavkovsky Stit (2452m), and on to Teryho Chata (2015)
 
 - [ ] Need Accommodation - Teryho Chata
 
-### Thursday, July 5, 2018
+### Wednesday, July 11, 2018
 
 Hike from Teryho Chata to Horsky Hotel via Vychodna Vysoka (2429m)
 
@@ -116,18 +112,16 @@ Hike from Teryho Chata to Horsky Hotel via Vychodna Vysoka (2429m)
 
 - [ ] Need Accommodation - Horsky Hotel
 
-### Friday, July 6, 2018
+### Thursday, July 12, 2018
+
+Thu, 12-Jul-2018 	22:40	Poprad → Prague	77.80 EUR
+
+### Friday, July 13, 2018
 
 Rest Day
 
-#### ToDo
-
-- [ ] Need Accommodation - Overnight Train to Prague
-
-### Saturday, July 7, 2018
-
 Flight Home
-"Flight to FRANKFURT DE Sat 2018-07-07 6:20pm – 7:25pm (CEST)"
+"Flight to FRANKFURT DE Fri 2018-07-13 6:20pm – 7:25pm (CEST)"
 
 ## Equipment
 
