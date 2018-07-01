@@ -81,9 +81,7 @@ https://www.google.com/maps/place/Atrium+Hotel/@49.1376071,20.2131503,17z
 
 Early hike to Slavkovsky Stit (2452m), and on to Teryho Chata (2015)
 
-#### ToDo
-
-- [ ] Need Accommodation - Teryho Chata
+Teryho Chata https://www.teryhochata.sk/ubytovanie/
 
 ### Wednesday, July 11, 2018
 
