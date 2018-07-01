@@ -87,9 +87,7 @@ Teryho Chata https://www.teryhochata.sk/ubytovanie/
 
 Hike from Teryho Chata to Horsky Hotel via Vychodna Vysoka (2429m)
 
-#### ToDo
-
-- [ ] Need Accommodation - Horsky Hotel
+Accommodation - Horsky Hotel http://www.popradskepleso.com
 
 ### Thursday, July 12, 2018
 
