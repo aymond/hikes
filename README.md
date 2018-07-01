@@ -43,6 +43,7 @@ Local train to Strbske Pleso.
 | Distance | 17.5 KM |
 
 - Overnight in Hotel Toliar
+https://www.google.com/maps/place/Hotel+Toliar/@49.1184597,20.0598166,17z
 
 - [furkotka.sk](http://furkotka.sk/booking/?lang=en)
 
@@ -64,9 +65,8 @@ Then hike to Koprovsky Stit (2363m)
     - 3.0 Hour hike to Rysy
     - 2.5 Hour return from Peak to Popradske pleso 
 
-#### ToDo
-
 Overnight in Hotel Toliar
+https://www.google.com/maps/place/Hotel+Toliar/@49.1184597,20.0598166,17z
 
 ### Monday, July 09, 2018
 
@@ -75,6 +75,7 @@ Nový Smokovec
 Train station
 Overnight in Atrium Hotel
 https://www.atriumhotel.sk
+https://www.google.com/maps/place/Atrium+Hotel/@49.1376071,20.2131503,17z
 
 ### Tuesday, July 10, 2018
 
