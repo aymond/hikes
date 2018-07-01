@@ -71,10 +71,10 @@ Overnight in Hotel Toliar
 ### Monday, July 09, 2018
 
 Hike to Rysy (2500m)
-
-#### ToDo
-
-- [ ] Need Accommodation - Vysoke Tatry
+Nový Smokovec
+Train station
+Overnight in Atrium Hotel
+https://www.atriumhotel.sk
 
 ### Tuesday, July 10, 2018
 
