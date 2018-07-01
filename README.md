@@ -21,6 +21,8 @@ Train from Prague to Slovakia - https://www.regiojet.cz
 Departure	Route	The price of the ticket
 Fri, 06-Jul-2018 	21:48	Prague → Poprad	77.80 EUR
 
+
+
 #### ToDo
 
 ### Saturday, July 07, 2018
@@ -40,9 +42,9 @@ Local train to Strbske Pleso.
 | Duration | 6.5 Hours |
 | Distance | 17.5 KM |
 
-- [ ] Need Accommodation - Strbske Pleso
-    - Tourist lodging SHB
-    - [furkotka.sk](http://furkotka.sk/booking/?lang=en)
+- Overnight in Hotel Toliar
+
+- [furkotka.sk](http://furkotka.sk/booking/?lang=en)
 
 
 ### Sunday, July 08, 2018
@@ -64,7 +66,7 @@ Then hike to Koprovsky Stit (2363m)
 
 #### ToDo
 
-- [ ] Need Accommodation - Strbske Pleso (As above) or ...?
+Overnight in Hotel Toliar
 
 ### Monday, July 09, 2018
 
