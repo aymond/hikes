@@ -73,9 +73,9 @@ https://www.google.com/maps/place/Hotel+Toliar/@49.1184597,20.0598166,17z
 Hike to Rysy (2500m)
 Nový Smokovec
 Train station
-Overnight in Atrium Hotel
-https://www.atriumhotel.sk
-https://www.google.com/maps/place/Atrium+Hotel/@49.1376071,20.2131503,17z
+Overnight in Palace Grand
+https://www.google.de/maps/place/Palace+Grand/@49.1382493,20.2169616,19z
+http://kupelens.sk
 
 ### Tuesday, July 10, 2018
 
