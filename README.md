@@ -81,7 +81,7 @@ http://kupelens.sk
 
 Early hike to Slavkovsky Stit (2452m), and on to Teryho Chata (2015)
 
-Teryho Chata https://www.teryhochata.sk/ubytovanie/
+zbojnickachata.sk
 
 ### Wednesday, July 11, 2018
 
