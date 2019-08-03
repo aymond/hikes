@@ -1,3 +1,44 @@
+# Alps
+
+Planning for hike along the Heilbronnerweg
+
+## Friday, 23.08
+
+Meet in Oberstdorf, early. Hike to Kemptner Huette.
+
+## Saturday 29.08
+
+Long day hike to Enzianhuette
+
+## Sunday 30.08
+
+Hike to Mindelheimer Huette
+
+## Equipment List
+
+|a|b|c|
+|-|-|-|
+|Climbing Harness|||
+|Backpack|||
+|Shoes|||
+|Trek Poles|||
+|Rain Jacket|||
+|Sweater|||
+|Softshell Jacket|||
+|Hiking Pants|||
+|3 x Tshirts|||
+|4 x Socks|||
+|Flip Flops|||
+|Hat|||
+|Gloves?|||
+|Hydration|Camelback?||
+|Sun glasses|||
+|Headlamp|Handy?||
+|Toiletries|||
+|Swimmers?|||
+|Food|Landjager|dried fruits, trail mix|
+
+
 # Tatras
 
 Planning for high tatras hike
